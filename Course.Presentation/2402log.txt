@@ -1,0 +1,190 @@
+Now listening on: http://localhost:5284 
+Application started. Press Ctrl+C to shut down. 
+Hosting environment: Development 
+Content root path: C:\Users\user\source\repos\Course.Presentation\Course.Presentation\ 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+Now listening on: http://localhost:5284 
+Application started. Press Ctrl+C to shut down. 
+Hosting environment: Development 
+Content root path: C:\Users\user\source\repos\Course.Presentation\Course.Presentation\ 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+/index.html 
+/index.html 
+/index.html 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+/favicon.ico 
+/favicon.ico 
+/favicon.ico 
+Now listening on: http://localhost:5284 
+Application started. Press Ctrl+C to shut down. 
+Hosting environment: Development 
+Content root path: C:\Users\user\source\repos\Course.Presentation\Course.Presentation\ 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Now listening on: http://localhost:5284 
+Application started. Press Ctrl+C to shut down. 
+Hosting environment: Development 
+Content root path: C:\Users\user\source\repos\Course.Presentation\Course.Presentation\ 
+An unhandled exception has occurred while executing the request. 
+An unhandled exception has occurred while executing the request. 
+Now listening on: http://localhost:5284 
+Application started. Press Ctrl+C to shut down. 
+Hosting environment: Development 
+Content root path: C:\Users\user\source\repos\Course.Presentation\Course.Presentation\ 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
